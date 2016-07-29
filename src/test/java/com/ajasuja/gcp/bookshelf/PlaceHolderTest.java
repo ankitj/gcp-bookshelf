@@ -1,0 +1,5 @@
+package com.ajasuja.gcp.bookshelf;
+
+public class PlaceHolderTest {
+
+}
